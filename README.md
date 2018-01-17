@@ -18,7 +18,10 @@
 
 ## План семинаров (первый модуль):
 *Семинар 1.* Введение в машинное обучение. Numpy.
-* …
+* [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/sem1.ipynb)
+* [Домашнее задание (без проверки, для тренировки)](https://github.com/iad-24/seminars/blob/master/materials/hw_sem1_opt.ipynb)
+* [Ноутбук-туториал по numpy](https://github.com/esokolov/ml-minor-hse/blob/master/lectures-2018/lecture01-intro.pdf)
+* [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 
 
 
