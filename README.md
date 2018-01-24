@@ -23,6 +23,10 @@
 * [Ноутбук-туториал по numpy (автор: Анастасия Рысьмятова)](https://github.com/iad-24/seminars/blob/master/materials/ipython_notebook_numpy.ipynb)
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 
+## План семинаров (первый модуль):
+*Семинар 1.* Pandas и Matplotlib.
+* [Данные о пассажирах «Титаника»](https://raw.githubusercontent.com/iad34/seminars/master/materials/data_sem1.csv)
+
 
 
 
