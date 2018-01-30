@@ -16,7 +16,7 @@
 ## Домашние задания
 * …
 
-## План семинаров (первый модуль):
+## Материалы семинаров:
 *Семинар 1.* Введение в машинное обучение. Numpy.
 * [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/sem1.ipynb)
 * [Домашнее задание (без проверки, для тренировки)](https://github.com/iad-24/seminars/blob/master/materials/hw_sem1_opt.ipynb)
@@ -31,6 +31,8 @@
 * [Подробный ноутбук-туториал про pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
 * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
+*Семинар 3.* Постановка задачи машинного обучения, библиотека sklearn
+* [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/Seminar_sklearn_starter.ipynb)
 
 
 ## Полезные ссылки
