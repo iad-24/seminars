@@ -33,7 +33,7 @@
 
 *Семинар 3.* Постановка задачи машинного обучения, библиотека sklearn
 * [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/Seminar_sklearn_starter.ipynb)
-
+* [Документация sklearn](http://scikit-learn.org/stable/index.html)
 
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
