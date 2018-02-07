@@ -35,10 +35,18 @@
 *Семинар 3.* Постановка задачи машинного обучения, библиотека sklearn
 * [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/Seminar_sklearn_starter.ipynb)
 * [Документация sklearn](http://scikit-learn.org/stable/index.html)
-* [Ноутбук с семинра с комментариями](https://github.com/iad-24/seminars/blob/master/materials/Seminar_sklearn_sol.ipynb)
+* [Ноутбук с семинара с комментариями](https://github.com/iad-24/seminars/blob/master/materials/Seminar_sklearn_sol.ipynb)
 * [Презентация с семинара](https://github.com/iad-24/seminars/blob/master/materials/presentation_sem3_intro.pdf)
 
+*Семинар 4.* Метод k ближайших соседей, кросс-валидация
+* [Ноутбук ИАД-2](https://github.com/iad-24/seminars/blob/master/materials/sem4/sem4_iad2.ipynb)
+* [Ноутбук ИАД-4](https://github.com/iad-24/seminars/blob/master/materials/sem4/sem4_iad4.ipynb)
+* [Ноутбук с полезными функциями из numpy](https://github.com/iad-24/seminars/blob/master/materials/sem4/sem4_FAQ.ipynb)
+* [Документация sklearn](http://scikit-learn.org/stable/index.html)
+* [Задачи с семинара (кроме №5)](http://nbviewer.jupyter.org/github/shestakoff/minor_da_2017/blob/master/colloc_knn.ipynb)
+
 ## Полезные ссылки
+* [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 * [Видеозаписи курса лекций К. В. Воронцова](https://yandexdataschool.ru/edu-process/courses/machine-learning)
