@@ -47,6 +47,7 @@
 
 *Семинар 5.* Градиентный спуск
 * [Задание на семинар](https://github.com/iad-24/seminars/blob/master/materials/Seminar5_3d_task.ipynb)
+* [Решение задания](https://github.com/iad-24/seminars/blob/master/materials/Seminar5_3d_solution.ipynb)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
