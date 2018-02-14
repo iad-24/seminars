@@ -45,6 +45,9 @@
 * [Документация sklearn](http://scikit-learn.org/stable/index.html)
 * [Задачи с семинара (кроме №5)](http://nbviewer.jupyter.org/github/shestakoff/minor_da_2017/blob/master/colloc_knn.ipynb)
 
+*Семинар 5.* Градиентный спуск
+* [Задание на семинар](https://github.com/iad-24/seminars/blob/master/materials/Seminar5_3d_task.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
