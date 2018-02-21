@@ -49,6 +49,9 @@
 * [Задание на семинар](https://github.com/iad-24/seminars/blob/master/materials/Seminar5_3d_task.ipynb)
 * [Решение задания](https://github.com/iad-24/seminars/blob/master/materials/Seminar5_3d_solution.ipynb)
 
+*Семинар 6.* Линейная регрессия
+* [Презентация](https://github.com/iad-24/seminars/blob/master/materials/linreg_sem.pdf)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
