@@ -54,6 +54,7 @@
 
 *Семинар 7.* Линейная классификация
 * [Ноутбук для семинара](https://github.com/iad-24/seminars/blob/master/materials/seminar7_starter_logreg.ipynb)
+* [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/seminar7_solution_logreg.ipynb)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
