@@ -52,6 +52,9 @@
 *Семинар 6.* Линейная регрессия
 * [Презентация](https://github.com/iad-24/seminars/blob/master/materials/linreg_sem.pdf)
 
+*Семинар 7.* Линейная классификация
+* [Ноутбук для семинара](https://github.com/iad-24/seminars/blob/master/materials/seminar7_starter_logreg.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
