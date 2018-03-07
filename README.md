@@ -56,6 +56,10 @@
 * [Ноутбук для семинара](https://github.com/iad-24/seminars/blob/master/materials/seminar7_starter_logreg.ipynb)
 * [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/seminar7_solution_logreg.ipynb)
 
+*Семинар 8.* Метрики бинарной классификации
+* [Слайды](https://github.com/iad-24/seminars/blob/master/materials/sem_metrics.pdf)
+* [Задачи](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_metrics.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
