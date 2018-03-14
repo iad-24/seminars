@@ -60,6 +60,11 @@
 * [Слайды](https://github.com/iad-24/seminars/blob/master/materials/sem_metrics.pdf)
 * [Задачи](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_metrics.ipynb)
 
+*Семинар 9.* Семинар про работу с текстами
+* [Слайды](https://github.com/iad-24/seminars/blob/master/materials/texts.pdf)
+* [Данные для семинара](https://github.com/iad34/seminars/blob/master/materials/9sem_data.zip)
+* [Код для считывания текстов](https://pastebin.com/JXrDiDGL)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
