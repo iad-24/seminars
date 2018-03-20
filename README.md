@@ -65,6 +65,9 @@
 * [Данные для семинара](https://github.com/iad34/seminars/blob/master/materials/9sem_data.zip)
 * [Код для считывания текстов](https://pastebin.com/JXrDiDGL)
 
+*Семинар 10.* Решающие деревья
+* [Стартовый ноутбук](https://github.com/iad34/seminars/blob/master/materials/Starter_sem8.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
