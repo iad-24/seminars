@@ -10,6 +10,7 @@
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/1n6-_nCiIQYQQwDbqJKtDoKXNRlbEk3798nKTkOqc6YE/edit?usp=sharing)
 
 [Доска объявлений](https://t.me/iad24) и [Telegram-чат](https://t.me/iad24chat)
+После блокировки телеграма писать вопросы можно на почту ассистентам (по заданиям) и семинаристам (по всему остальному).
 
 Адрес курса: hse.minor.dm+2@gmail.com (семинары первой парой) или hse.minor.dm+4@gmail.com (семинары третьей парой)
 
