@@ -75,6 +75,9 @@
 *Семинар 12. * Композиции алгоритмов
 * [Задание для семинара](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/compositions_practice.ipynb)
 
+*Семинар 13. *  Кластеризация
+* [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/Starter_clustering.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
