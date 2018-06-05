@@ -79,6 +79,9 @@
 * [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/Starter_clustering.ipynb)
 * [Решение семинара](https://github.com/iad-24/seminars/blob/master/materials/Sem_clustering.ipynb)
 
+*Семинар 15. Визуализация*
+* [Ноутбук для семинара](https://github.com/iad-24/seminars/blob/master/materials/sem15-visualization.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
