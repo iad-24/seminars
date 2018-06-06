@@ -76,7 +76,7 @@
 * [Задание для семинара](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/compositions_practice.ipynb)
 
 *Семинар 13.* Методы понижения размерности
-* [ноутбук](https://github.com/iad-24/seminars/blob/master/materials/sem_tsne.ipynb)
+* [Ноутбук для семинара](https://github.com/iad-24/seminars/blob/master/materials/sem_tsne.ipynb)
 
 *Семинар 14.* Кластеризация
 * [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/Starter_clustering.ipynb)
