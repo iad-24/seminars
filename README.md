@@ -75,12 +75,21 @@
 *Семинар 12.* Композиции алгоритмов
 * [Задание для семинара](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/compositions_practice.ipynb)
 
-*Семинар 14.*  Кластеризация
+*Семинар 13.* Методы понижения размерности
+* [ноутбук](https://github.com/iad-24/seminars/blob/master/materials/sem_tsne.ipynb)
+
+*Семинар 14.* Кластеризация
 * [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/Starter_clustering.ipynb)
 * [Решение семинара](https://github.com/iad-24/seminars/blob/master/materials/Sem_clustering.ipynb)
 
-*Семинар 15. Визуализация*
+*Семинар 15.* Визуализация
 * [Ноутбук для семинара](https://github.com/iad-24/seminars/blob/master/materials/sem15-visualization.ipynb)
+
+*Семинар 16. Рекомендательные системы*
+* [Слайды лекции](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/lecture12-RS.pdf)
+* [Инфо о фильмах](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/movies.dat)
+* [Обучение](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/train.csv)
+* [Контроль](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/test.csv)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
