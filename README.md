@@ -84,12 +84,16 @@
 
 *Семинар 15.* Визуализация
 * [Ноутбук для семинара](https://github.com/iad-24/seminars/blob/master/materials/sem15-visualization.ipynb)
+* [Ноутбук со всеми заполненными ячейками](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem11-visualization.ipynb)
 
 *Семинар 16. Рекомендательные системы*
 * [Слайды лекции](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/lecture12-RS.pdf)
 * [Инфо о фильмах](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/movies.dat)
 * [Обучение](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/train.csv)
 * [Контроль](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/test.csv)
+
+*Семинар 17. Методы генерации признаков*
+* [Стартовый ноутбук](https://github.com/iad-24/seminars/blob/master/materials/sem_features_starter.ipynb)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
